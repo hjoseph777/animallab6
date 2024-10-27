@@ -17,10 +17,18 @@ The `Animal` class is an abstract base class that defines common properties and 
 - Encapsulation (private/public members)
 - Dependencies (blue arrow)
 
-![uml](/images/Animal.png) 
 ## Usage
+![uml](/images/Animal.png) 
+
+
+## Results Display
+![results](/images/output.png)
+
+
+
 ## Resume
 In this exercise, we created a Java application that demonstrates the principles of inheritance and polymorphism. We defined a base `Animal` class and extended it with specific animal classes like `Dog`, `Parrot`, and `Cat`. The `AnimalCare` class serves as the entry point of the application, where we instantiate and interact with these animal objects, showcasing their unique behaviors.
+
 
 ## Author
 Harry Joseph Github: https://github.com/hjoseph777
