@@ -22,7 +22,7 @@ The `Animal` class is an abstract base class that defines common properties and 
 
 
 ## Results Display
-![results](/images/output.png)
+![results](/images/Output.png)
 
 
 
